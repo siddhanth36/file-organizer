@@ -13,7 +13,7 @@ DIRECTORIES = {
 }
 
 # Path to organize (change this to your messy folder!)
-target_dir = "home/username/Downloads"  # 🚨 Update this path!
+target_dir = "/path/to/your/messy/folder"  # 🚨 Update this path!
 
 def create_folders():
     """Create folders if they don't exist."""

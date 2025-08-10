@@ -8,12 +8,13 @@ A Python script that automatically organizes files in a directory by moving them
 ## ✨ Features
 
 - Automatically sorts files into logical categories (Documents, Images, Audio, etc.)
+- Sorts files by extension (PDFs, Images, Videos, etc.)
 - Simple configuration - just edit the `DIRECTORIES` dictionary to add/remove file types
-- Lightweight and fast - no dependencies required
-- Works on Linux, macOS, and Windows (with minor modifications)
+- Lightweight and fast (pure Python) - no dependencies required
+- Works on Linux (Kali/Ubuntu), macOS, and Windows (with minor modifications)
 - Clean, well-commented code that's easy to understand and modify
 
-## 🛠️ Requirements
+## 🛠 Requirements
 
 - Python 3.x (pre-installed on Kali Linux)
 - Standard Python libraries only (`os`, `shutil`)
